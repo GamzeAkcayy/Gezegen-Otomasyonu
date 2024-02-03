@@ -1,4 +1,4 @@
-// GAMZE AKCAY 20010011039
+
 
 #include <stdio.h>
 #include <stdlib.h>
